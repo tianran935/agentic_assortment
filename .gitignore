@@ -1,0 +1,42 @@
+# Ignore data directories
+data/
+**/data/
+**/outputs/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python environment folders
+venv/
+env/
+.venv/
+
+# Test and coverage
+.pytest_cache/
+.coverage
+.coverage.*
+.cache
+
+# Type checker caches
+.mypy_cache/
+.pyre/
+
+# Build and packaging
+build/
+dist/
+pip-wheel-metadata/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor and OS files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+**/output/

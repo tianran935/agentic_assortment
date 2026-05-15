@@ -1,0 +1,40 @@
+{
+  "run_timestamp_utc": "2026-05-10T08:14:12.360861+00:00",
+  "models": {
+    "part_a": "qwen/qwen-2.5-72b-instruct",
+    "part_b": "qwen/qwen2.5-vl-72b-instruct"
+  },
+  "workflow_status": "success",
+  "results": {
+    "part_a": {
+      "part": "A",
+      "input_type": "product_list_text",
+      "shopping_request": "Choose one beverage for a shopper who wants a healthy everyday drink with low sugar preference.",
+      "selected_product": {
+        "id": "sku_001",
+        "name": "Chedone Oat Milk",
+        "brand": "Chedone",
+        "category": "beverage",
+        "price": 3.99,
+        "size": "1L"
+      },
+      "reasoning_summary": "Chedone Oat Milk is a healthy, low-sugar option suitable for everyday consumption.",
+      "confidence": "high"
+    },
+    "part_b": {
+      "part": "B",
+      "input_type": "shelf_image",
+      "shopping_request": "Choose one beverage for a shopper who wants a healthy everyday drink with low sugar preference.",
+      "selected_product": {
+        "id": "sku_003",
+        "name": "Peak Sparkling Water",
+        "brand": "Peak",
+        "category": "beverage",
+        "price": 2.49,
+        "size": "500ml"
+      },
+      "reasoning_summary": "Sparkling water is typically low in sugar, aligning with the shopper's preference for a healthy everyday drink with low sugar.",
+      "confidence": "high"
+    }
+  }
+}

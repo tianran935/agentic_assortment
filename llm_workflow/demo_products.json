@@ -1,0 +1,34 @@
+[
+  {
+    "id": "sku_001",
+    "name": "Chedone Oat Milk",
+    "brand": "Chedone",
+    "category": "beverage",
+    "price": 3.99,
+    "size": "1L"
+  },
+  {
+    "id": "sku_002",
+    "name": "Sunrise Orange Juice",
+    "brand": "Sunrise",
+    "category": "beverage",
+    "price": 4.49,
+    "size": "1L"
+  },
+  {
+    "id": "sku_003",
+    "name": "Peak Sparkling Water",
+    "brand": "Peak",
+    "category": "beverage",
+    "price": 2.49,
+    "size": "500ml"
+  },
+  {
+    "id": "sku_004",
+    "name": "Farmhouse Apple Juice",
+    "brand": "Farmhouse",
+    "category": "beverage",
+    "price": 4.19,
+    "size": "1L"
+  }
+]
