@@ -44,3 +44,5 @@ Thumbs.db
 .autodl/
 .gitignore
 **/.env.openrouter.autodl/
+llm_workflow/.env.openrouter
+**/.env*
