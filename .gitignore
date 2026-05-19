@@ -40,3 +40,7 @@ pip-wheel-metadata/
 .DS_Store
 Thumbs.db
 **/output/
+
+.autodl/
+.gitignore
+**/.env.openrouter
