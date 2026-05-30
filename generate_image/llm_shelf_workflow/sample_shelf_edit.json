@@ -1,0 +1,47 @@
+{
+  "mode": "edit",
+  "input_image": "/Users/tianran/Desktop/research/profLin/选品/tmp/output/shelf_llm_generate.png",
+  "notes": "Modify the existing shelf image to reflect the updated placement and promotion instructions while keeping the overall shelf scene style consistent.",
+  "skus": [
+    {
+      "sku_id": "cereal_001",
+      "item": "Cheerios Original",
+      "price": "$4.49",
+      "promotion": "sale tag",
+      "position": {
+        "row": 2,
+        "col": 1
+      }
+    },
+    {
+      "sku_id": "cereal_002",
+      "item": "Honey Nut Cheerios",
+      "price": "$4.79",
+      "promotion": "regular price",
+      "position": {
+        "row": 1,
+        "col": 4
+      }
+    },
+    {
+      "sku_id": "cereal_003",
+      "item": "Grape-Nuts",
+      "price": "$5.29",
+      "promotion": "markdown",
+      "position": {
+        "row": 3,
+        "col": 2
+      }
+    },
+    {
+      "sku_id": "cereal_004",
+      "item": "Special K Original",
+      "price": "$4.79",
+      "promotion": "featured",
+      "position": {
+        "row": 1,
+        "col": 2
+      }
+    }
+  ]
+}

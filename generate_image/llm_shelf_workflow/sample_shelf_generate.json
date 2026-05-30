@@ -1,0 +1,48 @@
+{
+  "mode": "generate",
+  "category": "cold cereal",
+  "style": "realistic fully stocked grocery shelf photograph",
+  "notes": "Make the shelf image look like a real supermarket cereal aisle section. The shelf should be front-facing, densely stocked, and mostly filled with products. Keep the requested target items recognizable, but do not leave wide empty spaces. Use realistic neighboring cereal products and repeated facings so the shelf looks naturally merchandised.",
+  "skus": [
+    {
+      "sku_id": "cereal_001",
+      "item": "Cheerios Original",
+      "price": "$4.79",
+      "promotion": "regular price",
+      "position": {
+        "row": 1,
+        "col": 1
+      }
+    },
+    {
+      "sku_id": "cereal_002",
+      "item": "Honey Nut Cheerios",
+      "price": "$4.79",
+      "promotion": "sale tag",
+      "position": {
+        "row": 1,
+        "col": 3
+      }
+    },
+    {
+      "sku_id": "cereal_003",
+      "item": "Grape-Nuts",
+      "price": "$4.79",
+      "promotion": "regular price",
+      "position": {
+        "row": 2,
+        "col": 2
+      }
+    },
+    {
+      "sku_id": "cereal_004",
+      "item": "Special K Original",
+      "price": "$4.79",
+      "promotion": "markdown",
+      "position": {
+        "row": 3,
+        "col": 4
+      }
+    }
+  ]
+}
